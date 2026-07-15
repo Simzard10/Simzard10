@@ -1,5 +1,9 @@
 ## Careers
-<img src="https://github.com/user-attachments/assets/38b6e50e-f04d-419d-9a2c-7e03c5596069" width="50" /> [AhnLab](https://www.ahnlab.com/ko) | 서버 개발 인턴  (2025.06 ~ 2025.12)
+<img src="https://github.com/user-attachments/assets/8c8da63e-9cb7-4453-9ac3-3d7a9789bb0f" width="50" /> [Netmarble](https://www.netmarble.net) | Software Engineer (2026.04 ~ )
+
+<img src="https://github.com/user-attachments/assets/8c8da63e-9cb7-4453-9ac3-3d7a9789bb0f" width="50" /> [Netmarble](https://www.netmarble.net) | Software Engineer Intern (2026.02 ~ 2026.04)
+
+<img src="https://github.com/user-attachments/assets/38b6e50e-f04d-419d-9a2c-7e03c5596069" width="50" /> [AhnLab](https://www.ahnlab.com/ko) | Server Developer Intern (2025.06 ~ 2025.12)
 
 
 ## Education
